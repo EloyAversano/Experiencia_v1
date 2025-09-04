@@ -524,6 +524,63 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 39785889}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &45358319
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 88b961b81da0236479c53402677e2d6d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 306.23288
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 88b961b81da0236479c53402677e2d6d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -379
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 88b961b81da0236479c53402677e2d6d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -38.22075
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 88b961b81da0236479c53402677e2d6d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7998591
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 88b961b81da0236479c53402677e2d6d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 88b961b81da0236479c53402677e2d6d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.60018784
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 88b961b81da0236479c53402677e2d6d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 88b961b81da0236479c53402677e2d6d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 88b961b81da0236479c53402677e2d6d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 73.767
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 88b961b81da0236479c53402677e2d6d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 88b961b81da0236479c53402677e2d6d, type: 3}
+      propertyPath: m_Name
+      value: Abismo_v1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 88b961b81da0236479c53402677e2d6d, type: 3}
 --- !u!1001 &67510117
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16292,3 +16349,4 @@ SceneRoots:
   - {fileID: 1346631034}
   - {fileID: 776149298}
   - {fileID: 1470446771}
+  - {fileID: 45358319}
