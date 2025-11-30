@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Seccion_2_abismo.unity
+- path: Assets/Scenes/Seccion_1_prueba.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
