@@ -353,7 +353,12 @@
 -analyzer:"C:/Program Files/Unity 2022.3.5f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity 2022.3.5f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Codigo/arbolAnimatorController.cs"
-"Assets/Codigo/playerTriggerAnimatorContoller.cs"
+"Assets/Codigo/Arbol_codigo/playerTriggerAnimatorContoller.cs"
+"Assets/Codigo/Carteles_codigo/carteles_TriggerAnimatorContoller.cs"
+"Assets/Codigo/Dragon_codigo/dragon_TriggerAnimatorContoller.cs"
+"Assets/Codigo/oak_arbolAnimatorController.cs"
+"Assets/Codigo/Oak_codigo/oak_TriggerAnimatorContoller.cs"
+"Assets/Codigo/tree1_codigo/tree1_TriggerAnimatorContoller.cs"
 "Assets/codigos/animaciones/arbol_PopUp_codigo.cs"
 "Assets/EasyPeasyFirstPersonController/Scripts/FirstPersonController.cs"
 -langversion:9.0
