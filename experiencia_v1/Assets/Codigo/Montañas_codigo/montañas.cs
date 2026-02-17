@@ -9,9 +9,14 @@ public class montañas : MonoBehaviour
     private bool jugadorEnTrigger = false;
     private bool activado = false;
 
+    private AudioSource audioSource;
+
+
     void Start()
     {
         textoInteraccion.SetActive(false);
+        audioSource = GetComponent<AudioSource>();
+
     }
 
     void Update()
@@ -21,6 +26,8 @@ public class montañas : MonoBehaviour
             _animatorMontañas.SetBool("PopUp_Bool", true);
             _animatorTotem.SetBool("PopDown_Bool", true);
             textoInteraccion.SetActive(false);
+            audioSource.PlayOneShot(audioSource.clip);
+
         }
     }
 
